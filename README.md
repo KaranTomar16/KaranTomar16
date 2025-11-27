@@ -27,14 +27,10 @@ Full 5-unit course covering traffic capture, packet analysis, reconstruction & l
 ### 📱 **3. Event Management System**
 Secure event management web app with authentication & clean UI.
 
-## 🟩 **📊 Cyber Activity**
-![Stats](https://github-readme-stats.vercel.app/api?username=karan-tomar&show_icons=true&theme=tokyonight)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karan-tomar&layout=compact&theme=tokyonight)
-
 ## 🟩 **🛰️ Connect with Me**
-- LinkedIn: _add your link_
-- Email: _add your email_
-- Portfolio: _optional_
+- LinkedIn: 
+- Email: 
+- Portfolio: 
 
 ## 🟩 **⚡ Fun Fact**
 ```bash
