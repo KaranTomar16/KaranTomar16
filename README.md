@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=AWS+DevOps+Engineer+%7C+Cloud+Architect;Cybersecurity+Engineer+%7C+Security+Specialist;Building+Secure+%26+Scalable+Infrastructure;Automating+Everything+%F0%9F%92%BB" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/YOUR_GITHUB_USERNAME)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&count_bg=%2300D9FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 
 </div>
 
@@ -13,11 +13,11 @@
 ## 🎯 About Me
 
 ```yaml
-name: "Your Name"
+name: "Karan Tomar"
 role: 
   - "AWS DevOps Engineer"
   - "Cybersecurity Engineer"
-location: "Your Location"
+location: "India"
 current_focus:
   - "Cloud Infrastructure Automation"
   - "Security Hardening & Compliance"
@@ -101,19 +101,13 @@ motto: "Automate Everything, Secure Everything"
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Security Certifications
 
 <div align="center">
 
-### AWS Certifications
-[![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
-[![AWS DevOps Engineer](https://img.shields.io/badge/AWS-DevOps_Engineer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
-[![AWS Security Specialty](https://img.shields.io/badge/AWS-Security_Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
-
-### Security Certifications
 [![CEH](https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-E60000?style=for-the-badge&logo=ec-council&logoColor=white)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-E60000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
-[![CISSP](https://img.shields.io/badge/CISSP-Certified-00A86B?style=for-the-badge&logo=isc2&logoColor=white)](https://www.isc2.org/Certifications/CISSP)
+[![CNSP](https://img.shields.io/badge/CNSP-Certified_Network_Security_Practitioner-00A86B?style=for-the-badge&logo=security&logoColor=white)](https://www.icsi.co.uk/)
 
 </div>
 
@@ -140,17 +134,6 @@ motto: "Automate Everything, Secure Everything"
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🔐 [Securing AWS Infrastructure: Best Practices for 2024](#)
-- ⚙️ [Automating Security Compliance with Terraform](#)
-- 🚀 [Building Zero-Trust Architecture on AWS](#)
-- 🛡️ [Advanced Threat Hunting Techniques](#)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -165,26 +148,6 @@ motto: "Automate Everything, Secure Everything"
 
 ---
 
-## 💬 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💭 "Security is not a product, but a process." - Bruce Schneier
@@ -194,4 +157,3 @@ motto: "Automate Everything, Secure Everything"
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
-
