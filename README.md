@@ -26,7 +26,11 @@ current_focus:
 motto: "Automate Everything, Secure Everything"
 ```
 
-<img align="right" alt="GIF" width="450" src="./assets/dance_ascii.gif" style="margin-left: auto; display: block;">
+<!-- 🎨 CUSTOM GIF: Uncomment the line below when you add your GIF to ./assets/ folder -->
+<!-- <img align="right" alt="GIF" width="450" src="./assets/dance_ascii.gif" style="margin-left: auto; display: block;"> -->
+
+<!-- 📌 Using external GIF as placeholder - replace with your own when ready -->
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### 💡 What I Do
 
