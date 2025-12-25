@@ -26,7 +26,7 @@ current_focus:
 motto: "Automate Everything, Secure Everything"
 ```
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="GIF" width="450" src="./assets/dance_ascii.gif" style="margin-left: auto; display: block;">
 
 ### 💡 What I Do
 
