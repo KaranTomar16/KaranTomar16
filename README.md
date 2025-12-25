@@ -134,7 +134,7 @@ motto: "Automate Everything, Secure Everything"
 
 ### 💭 "Security is not a product, but a process." - Bruce Schneier
 
-### ⭐ From [YOUR_GITHUB_USERNAME](https://github.com/KaranTomar16)
+### ⭐ From [KaranTomar16](https://github.com/KaranTomar16)
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
