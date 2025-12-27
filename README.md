@@ -10,7 +10,7 @@ Uncomment the line below when ready:
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=AWS+DevOps+Engineer+%7C+Cloud+Architect;Cybersecurity+Engineer+%7C+Security+Specialist;Building+Secure+%26+Scalable+Infrastructure;Automating+Everything+%F0%9F%92%BB" alt="Typing SVG" />
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaranTomar16&count_bg=%2300D9FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=KaranTomar16&color=00D9FF&style=flat-square&label=Profile+Views)
 
 </div>
 
