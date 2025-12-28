@@ -24,11 +24,11 @@ Uncomment the line below when ready:
         <th>Humidity</th>
     </tr>
     <tr style="text-align:center">
-        <td><b><img src="https://img.shields.io/badge/dynamic/json?color=00D9FF&label=&query=weather[0].description&url=https://api.openweathermap.org/data/2.5/weather?q=Hyderabad,IN%26appid=439d4b804bc8187953eb36d2a8c26a02&style=flat-square&logoColor=white"/></b></td>
-        <td><b><img src="https://img.shields.io/badge/dynamic/json?color=00D9FF&label=&query=main.temp&suffix=%C2%B0C&url=https://api.openweathermap.org/data/2.5/weather?q=Hyderabad,IN%26appid=439d4b804bc8187953eb36d2a8c26a02%26units=metric&style=flat-square&logoColor=white"/></b></td>
-        <td><b><img src="https://img.shields.io/badge/dynamic/json?color=00D9FF&label=&query=sys.sunrise&url=https://api.openweathermap.org/data/2.5/weather?q=Hyderabad,IN%26appid=439d4b804bc8187953eb36d2a8c26a02&style=flat-square&logoColor=white"/></b></td>
-        <td><b><img src="https://img.shields.io/badge/dynamic/json?color=00D9FF&label=&query=sys.sunset&url=https://api.openweathermap.org/data/2.5/weather?q=Hyderabad,IN%26appid=439d4b804bc8187953eb36d2a8c26a02&style=flat-square&logoColor=white"/></b></td>
-        <td><b><img src="https://img.shields.io/badge/dynamic/json?color=00D9FF&label=&query=main.humidity&suffix=%25&url=https://api.openweathermap.org/data/2.5/weather?q=Hyderabad,IN%26appid=439d4b804bc8187953eb36d2a8c26a02&style=flat-square&logoColor=white"/></b></td>
+        <td><b>Updating...</b> <img width="20" src="http://openweathermap.org/img/w/01d.png"></td>
+        <td><b>--°C</b></td>
+        <td><b>--:-- AM</b></td>
+        <td><b>--:-- PM</b></td>
+        <td><b>--%</b></td>
     </tr>
 </table>
 
