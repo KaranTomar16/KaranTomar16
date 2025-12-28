@@ -24,11 +24,11 @@ Uncomment the line below when ready:
         <th>Humidity</th>
     </tr>
     <tr style="text-align:center">
-        <td><b>Updating...</b> <img width="20" src="http://openweathermap.org/img/w/01d.png"></td>
-        <td><b>--°C</b></td>
-        <td><b>--:-- AM</b></td>
-        <td><b>--:-- PM</b></td>
-        <td><b>--%</b></td>
+        <td><b>Partly Cloudy</b> <img width="20" src="http://openweathermap.org/img/w/02d.png"></td>
+        <td><b>22°C</b></td>
+        <td><b>06:42 AM</b></td>
+        <td><b>05:54 PM</b></td>
+        <td><b>65%</b></td>
     </tr>
 </table>
 
