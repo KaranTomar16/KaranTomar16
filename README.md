@@ -48,11 +48,8 @@ motto: "Automate Everything, Secure Everything"
 </td>
 <td width="45%">
 
-<!-- 🎨 CUSTOM GIF: Add your GIF to ./assets/coding.gif and uncomment below -->
-<!-- <img src="./assets/coding.gif" width="100%" alt="Coding GIF"/> -->
-
-<!-- 📌 Placeholder GIF - replace when ready -->
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding"/>
+<!-- 🎨 Custom Hacking GIF -->
+<img src="./assets/Hacking.gif" width="100%" alt="Hacking Animation" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 217, 255, 0.3);"/>
 
 </td>
 </tr>
