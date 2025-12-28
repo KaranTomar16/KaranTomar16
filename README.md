@@ -12,26 +12,24 @@ Uncomment the line below when ready:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KaranTomar16&color=00D9FF&style=flat-square&label=Profile+Views)
 
-### 🇮🇳 Current Weather in India ⛅
+<!-- Hyderabad's weather table -->
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="http://openweathermap.org/img/wn/01d@2x.png" width="50px"/>
-</td>
-<td align="center">
-<b>🌡️ Temperature</b><br/>
-<img src="https://img.shields.io/badge/dynamic/json?color=00D9FF&label=&query=main.temp&suffix=%C2%B0C&url=https://api.openweathermap.org/data/2.5/weather?q=Delhi,IN%26appid=439d4b804bc8187953eb36d2a8c26a02%26units=metric&style=flat-square&logo=thermometer&logoColor=white"/>
-</td>
-<td align="center">
-<b>💧 Humidity</b><br/>
-<img src="https://img.shields.io/badge/dynamic/json?color=00D9FF&label=&query=main.humidity&suffix=%25&url=https://api.openweathermap.org/data/2.5/weather?q=Delhi,IN%26appid=439d4b804bc8187953eb36d2a8c26a02&style=flat-square&logo=droplet&logoColor=white"/>
-</td>
-<td align="center">
-<b>🌤️ Condition</b><br/>
-<img src="https://img.shields.io/badge/dynamic/json?color=00D9FF&label=&query=weather[0].description&url=https://api.openweathermap.org/data/2.5/weather?q=Delhi,IN%26appid=439d4b804bc8187953eb36d2a8c26a02&style=flat-square&logo=weather&logoColor=white"/>
-</td>
-</tr>
+<h2 align="center"> 🇮🇳 Hyderabad's Weather ⛅ </h2>
+<table align="center" style="width:50%">
+    <tr style="text-align:center">
+        <th>Weather</th>
+        <th>Temperature</th>
+        <th>Sunrise</th>
+        <th>Sunset</th>
+        <th>Humidity</th>
+    </tr>
+    <tr style="text-align:center">
+        <td><b><img src="https://img.shields.io/badge/dynamic/json?color=00D9FF&label=&query=weather[0].description&url=https://api.openweathermap.org/data/2.5/weather?q=Hyderabad,IN%26appid=439d4b804bc8187953eb36d2a8c26a02&style=flat-square&logoColor=white"/></b></td>
+        <td><b><img src="https://img.shields.io/badge/dynamic/json?color=00D9FF&label=&query=main.temp&suffix=%C2%B0C&url=https://api.openweathermap.org/data/2.5/weather?q=Hyderabad,IN%26appid=439d4b804bc8187953eb36d2a8c26a02%26units=metric&style=flat-square&logoColor=white"/></b></td>
+        <td><b><img src="https://img.shields.io/badge/dynamic/json?color=00D9FF&label=&query=sys.sunrise&url=https://api.openweathermap.org/data/2.5/weather?q=Hyderabad,IN%26appid=439d4b804bc8187953eb36d2a8c26a02&style=flat-square&logoColor=white"/></b></td>
+        <td><b><img src="https://img.shields.io/badge/dynamic/json?color=00D9FF&label=&query=sys.sunset&url=https://api.openweathermap.org/data/2.5/weather?q=Hyderabad,IN%26appid=439d4b804bc8187953eb36d2a8c26a02&style=flat-square&logoColor=white"/></b></td>
+        <td><b><img src="https://img.shields.io/badge/dynamic/json?color=00D9FF&label=&query=main.humidity&suffix=%25&url=https://api.openweathermap.org/data/2.5/weather?q=Hyderabad,IN%26appid=439d4b804bc8187953eb36d2a8c26a02&style=flat-square&logoColor=white"/></b></td>
+    </tr>
 </table>
 
 </div>
