@@ -12,6 +12,28 @@ Uncomment the line below when ready:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KaranTomar16&color=00D9FF&style=flat-square&label=Profile+Views)
 
+### 🇮🇳 Current Weather in India ⛅
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="http://openweathermap.org/img/wn/01d@2x.png" width="50px"/>
+</td>
+<td align="center">
+<b>🌡️ Temperature</b><br/>
+<img src="https://img.shields.io/badge/dynamic/json?color=00D9FF&label=&query=main.temp&suffix=%C2%B0C&url=https://api.openweathermap.org/data/2.5/weather?q=Delhi,IN%26appid=439d4b804bc8187953eb36d2a8c26a02%26units=metric&style=flat-square&logo=thermometer&logoColor=white"/>
+</td>
+<td align="center">
+<b>💧 Humidity</b><br/>
+<img src="https://img.shields.io/badge/dynamic/json?color=00D9FF&label=&query=main.humidity&suffix=%25&url=https://api.openweathermap.org/data/2.5/weather?q=Delhi,IN%26appid=439d4b804bc8187953eb36d2a8c26a02&style=flat-square&logo=droplet&logoColor=white"/>
+</td>
+<td align="center">
+<b>🌤️ Condition</b><br/>
+<img src="https://img.shields.io/badge/dynamic/json?color=00D9FF&label=&query=weather[0].description&url=https://api.openweathermap.org/data/2.5/weather?q=Delhi,IN%26appid=439d4b804bc8187953eb36d2a8c26a02&style=flat-square&logo=weather&logoColor=white"/>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
