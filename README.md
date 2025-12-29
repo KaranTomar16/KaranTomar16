@@ -69,7 +69,12 @@ motto: "Automate Everything, Secure Everything"
 <td width="45%" valign="top" align="center">
 
 <!-- 🎨 Custom Hacking GIF -->
-<img src="./assets/Hacking.gif" width="100%" alt="Hacking Animation" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 217, 255, 0.3);"/>
+<img src="./assets/Hacking.gif" width="100%" alt="Hacking Animation" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 217, 255, 0.3); margin-bottom: 20px;"/>
+
+<br/>
+
+<!-- 🐱 Murakami Cat -->
+<img src="./assets/murakamicat.png" width="80%" alt="Murakami Cat" style="border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 217, 255, 0.4); margin-top: 10px;"/>
 
 </td>
 </tr>
