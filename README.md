@@ -38,8 +38,9 @@ Uncomment the line below when ready:
 
 ## 🎯 About Me
 
+<table>
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
 
 ```yaml
 name: "Karan Tomar"
@@ -65,13 +66,14 @@ motto: "Automate Everything, Secure Everything"
 - 🔒 **Compliance & Governance** - CIS, NIST, ISO 27001 frameworks
 
 </td>
-<td width="45%">
+<td width="45%" valign="top" align="center">
 
 <!-- 🎨 Custom Hacking GIF -->
 <img src="./assets/Hacking.gif" width="100%" alt="Hacking Animation" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 217, 255, 0.3);"/>
 
 </td>
 </tr>
+</table>
 
 ### 🧐 More About Me:
 
