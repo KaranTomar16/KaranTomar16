@@ -38,7 +38,6 @@ Uncomment the line below when ready:
 
 ## 🎯 About Me
 
-<table>
 <tr>
 <td width="55%">
 
@@ -73,7 +72,6 @@ motto: "Automate Everything, Secure Everything"
 
 </td>
 </tr>
-</table>
 
 ### 🧐 More About Me:
 
